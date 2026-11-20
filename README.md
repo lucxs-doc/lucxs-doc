@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:E8590C,100:6B2FB3&height=190&section=header&text=LUCAS%20PINTO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=NERV%20%2F%2F%20SISTEMA%20DE%20DESENVOLVIMENTO&descAlignY=60&descSize=16" width="100%" alt="Banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=FF6600&background=00000000&center=true&vCenter=true&width=640&lines=SISTEMA+ONLINE;PILOTO+IDENTIFICADO%3A+LUCAS;ESTUDANTE+DE+AN%C3%81LISE+E+DESENV.+DE+SISTEMAS;CONSTRUINDO+PROJETOS+DO+ZERO" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=FF6600&background=00000000&center=true&vCenter=true&width=640&lines=SISTEMA+ONLINE;USUÁRIO+IDENTIFICADO%3A+LUCAS;ESTUDANTE+DE+AN%C3%81LISE+E+DESENV.+DE+SISTEMAS;CONSTRUINDO+PROJETOS+DO+ZERO" alt="Typing SVG">
 
 <br><br>
 
