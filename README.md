@@ -6,43 +6,29 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6600" alt="LinkedIn"></a>
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6600&labelColor=0D0D0D&color=FF6600" alt="GitHub"></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6600&labelColor=0D0D0D&color=FF6600" alt="E-mail"></a>
+<a href="https://www.linkedin.com/in/lucasspinto/"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6600" alt="LinkedIn"></a>
+<a href="https://github.com/lucxs-doc"><img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6600&labelColor=0D0D0D&color=FF6600" alt="GitHub"></a>
+<a href="mailto:lucxsdoc@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6600&labelColor=0D0D0D&color=FF6600" alt="E-mail"></a>
 
 </div>
 
 <br>
 
-## ▌ SOBRE O PILOTO
-
-```
-┌─[ NERV // DADOS DO PILOTO ]────────────────────┐
-│ NOME ......... Lucas de Souza Pinto            │
-│ FUNÇÃO ....... Estudante de ADS                │
-│ INSTITUIÇÃO .. ESBAM                           │
-│ FOCO ......... Lógica, Python, Web e Mobile    │
-│ INTERESSE .... UI/UX Design                    │
-│ OBJETIVO ..... Estágio na área de tecnologia   │
-│ STATUS ....... SINCRONIZAÇÃO EM ANDAMENTO      │
-└────────────────────────────────────────────────┘
-```
+## ▌ SOBRE MIM
 
 Olá! Sou o Lucas, estudante de **Análise e Desenvolvimento de Sistemas**. Estou aprendendo programação construindo coisas de verdade: ferramentas pequenas que resolvem problemas reais, interfaces e aplicativos. Quando posso, junto lógica de programação com um bom design de interface.
 
-<br>
-
-## ▌ SISTEMA MAGI
-
 ```
-┌─[ MAGI // CONSENSO ]───────────────────────────┐
-│ MELCHIOR-1 ... Lógica e programação: APROVADO  │
-│ BALTHASAR-2 .. Interface e design: APROVADO    │
-│ CASPER-3 ..... Mobile e jogos: EM ANÁLISE      │
-└────────────────────────────────────────────────┘
+                                              ┌─[ ++++ // DADOS +++++++++ ]────────────────────┐
+                                              │ NOME ......... Lucas de Souza Pinto            │
+                                              │ FUNÇÃO ....... Estudante de ADS                │
+                                              │ INSTITUIÇÃO .. ESBAM                           │
+                                              │ FOCO ......... Lógica, Python, Web e Mobile    │
+                                              │ INTERESSE .... UI/UX Design                    │
+                                              │ OBJETIVO ..... Estágio na área de tecnologia   │
+                                              └────────────────────────────────────────────────┘
 ```
 
-<br>
 
 ## ▌ TECNOLOGIAS
 
@@ -67,23 +53,9 @@ Olá! Sou o Lucas, estudante de **Análise e Desenvolvimento de Sistemas**. Esto
 
 | MISSÃO | DESCRIÇÃO | TECNOLOGIAS | STATUS |
 |:--|:--|:--|:--|
-| **[Organizador de Inscrições](https://github.com/SEU-USUARIO/organizador-inscricoes)** | Lê o CSV do Google Forms, trata datas em formatos diferentes, remove duplicados e agrupa por mês de nascimento. Exporta PDF. | HTML, CSS, JavaScript e Python | ![](https://img.shields.io/badge/ONLINE-0D0D0D?style=flat-square&labelColor=0D0D0D&color=39FF14) |
+| **[Organizador de Inscrições](https://github.com/lucxs-doc/organizador-inscricoes)** | Lê o CSV do Google Forms, trata datas em formatos diferentes, remove duplicados e agrupa por mês de nascimento. Exporta PDF. | HTML, CSS, JavaScript e Python | ![](https://img.shields.io/badge/ONLINE-0D0D0D?style=flat-square&labelColor=0D0D0D&color=39FF14) |
 | **Clone de interface estilo Discord** | Estudo de interface mobile com componentes reutilizáveis. | Kotlin, Jetpack Compose | ![](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FF6600) |
 
-<br>
-
-## ▌ DADOS DE SINCRONIZAÇÃO
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&bg_color=000000&title_color=FF6600&text_color=E6E6E6&icon_color=9B5DE5&border_color=FF6600&custom_title=NERV%20%2F%2F%20STATUS" height="165" alt="Estatísticas do GitHub">
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=000000&border=FF6600&stroke=6B2FB3&ring=FF6600&fire=FF6600&currStreakNum=FFFFFF&currStreakLabel=FF6600&sideNums=FFFFFF&sideLabels=9B5DE5&dates=888888" height="165" alt="Sequência de contribuições">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=000000&color=FF6600&line=9B5DE5&point=39FF14&area=true&area_color=6B2FB3&hide_border=true&title_color=FF6600" width="100%" alt="Gráfico de contribuições">
-
-</div>
-
-<br>
 
 <div align="center">
 
