@@ -49,7 +49,7 @@ Olá! Sou o Lucas, estudante de **Análise e Desenvolvimento de Sistemas**. Esto
 
 <br>
 
-## ▌ REGISTRO DE MISSÕES
+## ▌ REGISTRO DE PROJETOS
 
 | MISSÃO | DESCRIÇÃO | TECNOLOGIAS | STATUS |
 |:--|:--|:--|:--|
